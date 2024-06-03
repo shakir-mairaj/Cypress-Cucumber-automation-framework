@@ -15,3 +15,4 @@
 •	Run cypress using npx cypress open  to run feature files 
 •	For reports install mocha awesome reporter using command npm install --save-dev cypress-mochawesome-reporter  and set reports configuration parameters in  cypress. config.js file
 •	After running test cases in cypress, reports will be generated in reports folder as html file.
+
